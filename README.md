@@ -5,9 +5,8 @@ Can you need add command ?
 <br>
 Find switch statement 
 
-Edit switch statement in
-and do this 
-```js
+Add switch statement this code 
+```js                          
 case "commandname":
 //Command in example : message.channel.send("hello");
 break;
