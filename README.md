@@ -1,9 +1,17 @@
 # EasyDiscordBot
 Easy discord bot command handler. Türkçe anlatımlı
 
-if you can add command go server.js and find switch statement
+Can you need add command ? 
 <br>
-Go switch in and write
+Find switch statement 
+<br> Thats like : ```js
+switch (commandName) {
+
+}
+```
+<br>
+Edit switch statement in
+and do this 
 ```js
 case "commandname":
 //Command in example : message.channel.send("hello");
