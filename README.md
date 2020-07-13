@@ -1,7 +1,7 @@
 # EasyDiscordBot
 Easy discord bot command handler. Türkçe anlatımlı
 
-Can you need add command ? 
+Do you need add command ? 
 <br>
 Find switch statement and add in this code
 ```js                          
